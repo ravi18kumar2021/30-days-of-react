@@ -4,5 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '30-days-of-react',
   plugins: [react(), tailwindcss()],
 })
