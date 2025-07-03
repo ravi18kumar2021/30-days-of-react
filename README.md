@@ -12,7 +12,7 @@
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/your-username/30-days-of-react.git
+git clone https://github.com/ravi18kumar2021/30-days-of-react.git
 cd 30-days-of-react
 npm install
 npm run dev
