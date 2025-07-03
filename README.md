@@ -3,7 +3,7 @@
 🚀 A React + Vite + TailwindCSS homepage for my 30 Days of React journey. This page links to all of my daily React projects, each deployed individually on Vercel.
 
 ## 🌐 Live Demo
-[Visit Live →](https://30-days-of-react.vercel.app)
+[Visit Live →](https://ravi18kumar2021.github.io/30-days-of-react/)
 
 ## 📁 Features
 - Responsive layout
